@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+}
+.over{
+    background-color: white;
+    margin: auto;
+    width: 700px;
+    min-height: 1000px;
+    height: auto;
+    
+}
+.header ,
+.footer{
+    background-color: #1f2937;
+    color: white;
+}
+.topper{
+    display: flex;
+    justify-content: space-between;
+}
+.topper #toop{
+    display: flex;
+    gap: 10px;
+    margin: 0 100px 0 0;
+}
+.big_topper{
+   
+    display: flex;
+    padding: 50px;
+}
+.big_topper .under_topper h2{
+    font-size: 48px extra-bold #f9faf8;
+    
+}
+.big_topper .under_topper h5{
+    max-width: 300px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.big_topper .under_topper button{
+    background-color: #3882f6;
+    color: white;
+    width: max-content;
+    text-decoration: none;
+}
+.right_topper{
+    border: 1px black solid;
+    width: 300px;
+    background-color: grey;
+}
+.right_topper p{
+    text-align: center;
+    margin-top: 100px;
+}
+
+ #domi{
+    text-align: center;
+ }
+ .middle_top .boxe{
+    justify-content: space-between;
+ }
+
+.middle_top .boxe h1{
+    border: 2px blue solid;
+    width: 60px;
+    border-radius: 3px;
+    height: 50px;
+    
+}.middle_top .boxe p{
+   width: 100px; 
+}
+.trialmm  {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    
+}
+.quote{
+    background-color: #e5e7eb;
+}
+
+
+
+
+
+
